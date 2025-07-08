@@ -1,5 +1,3 @@
-# 📸 Recriando a Página do Instagram
-
 💻 Projeto desafio de recriar a página inicial do Instagram utilizando apenas HTML e CSS.
 
 ## 📌 Sobre o Projeto | About the Project
@@ -9,6 +7,11 @@ Neste desafio, refiz a página do Instagram focando em estrutura, layout e respo
 ---
 
 In this challenge, I recreated the Instagram homepage focusing on structure, layout, and basic responsiveness using only HTML and CSS.
+
+## 📷 Screenshot
+
+![screenshot](./instagram.png) 
+
 
 ## 🛠️ Tecnologias | Technologies
 
